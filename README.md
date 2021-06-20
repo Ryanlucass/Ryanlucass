@@ -7,16 +7,20 @@
 
 <br/>
 
-- ??Atualmente Trabalho na **Pague Menos**
-
-- ??? Atualmente Trabalho na **Pague Menos**
-
-- ?? Ask me about **C#, C, T-SQL, NetCore**
-
-- ?? E-mail Pessoal **lucasryanalves@gmail.com**
-
-- ? Fun fact everyone call me Calivem
-
+<ul>
+    <li>
+        &#x1F4BB; Atualmente Trabalho na **Pague Menos**
+    </li>
+     <li>
+        &#x1F4CB; Ask me about **C#, C, T-SQL, NetCore**
+    </li>
+    <li>
+        &#x1F4EA; E-mail Pessoal **lucasryanalves@gmail.com**
+    </li>
+    <li>
+        &#x1F4DD; Fun fact everyone call me Calivem
+    </li>
+</ul>
 
 
 
@@ -50,7 +54,7 @@
 
 Here are some ideas to get you started:
 
-- ?? I?m currently working on ...
+ ?? I?m currently working on ...
 - ?? I?m currently learning ...
 - ?? I?m looking to collaborate on ...
 - ?? I?m looking for help with ...
