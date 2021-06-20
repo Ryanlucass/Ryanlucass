@@ -7,9 +7,9 @@
 
 <br/>
 
-- ?? Atualmente Trabalho na **Pague Menos**
+- ??Atualmente Trabalho na **Pague Menos**
 
-- ?? Atualmente Trabalho na **Pague Menos**
+- ??? Atualmente Trabalho na **Pague Menos**
 
 - ?? Ask me about **C#, C, T-SQL, NetCore**
 
@@ -32,9 +32,10 @@
 <img src="icons/tecnologias/icons8-python.svg" alt="Python"  width="20" height="20"/>
 
 <img src="icons/tecnologias/sqllogo.png" alt="nodejs" width="20" height="20"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&show_icons=true" alt="Ryanlucass"/> 
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&show_icons=true" alt="Ryanlucass"/>
 </p>
 
 <p align="center">
