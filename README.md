@@ -56,7 +56,7 @@
 <a href="https://twitter.com/Calivem_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Calivem_" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/lucas-alves-55b925182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasryan.alves" height="20" width="20" /></a>
 <a href="https://fb.com/lucasryan.alves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lucasryan.alves" height="20" width="20" /></a>
-<a href="https://instagram.com/lucas-alves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="llucasalvestr" height="20" width="20" /></a>
+<a href="https://instagram.com/llucasalvestr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="llucasalvestr" height="20" width="20" /></a>
 </p>
 
 <!--
