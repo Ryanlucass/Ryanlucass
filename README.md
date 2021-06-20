@@ -24,9 +24,12 @@
 </ul>
 -->
 
-- &#x1F4BB; Atualmente trabalhando na **Pague Menos** 
+- &#x1F4BB; Atualmente trabalhando na **Pague Menos**
+
 - &#x1F4CB; Ask me about **C#, C, T-SQL, NetCore**
+
 - &#x1F4EA; E-mail Pessoal **lucasryanalves@gmail.com**
+
 - &#x1F4DD; Fun fact everyone call me Calivem
 
 
