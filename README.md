@@ -7,70 +7,40 @@
 
 <br/>
 
-<!--
-<ul>
-    <li>
-        &#x1F4BB; Atualmente Trabalho na **Pague Menos**
-    </li>
-     <li>
-        &#x1F4CB; Ask me about **C#, C, T-SQL, NetCore**
-    </li>
-    <li>
-        &#x1F4EA; E-mail Pessoal **lucasryanalves@gmail.com**
-    </li>
-    <li>
-        &#x1F4DD; Fun fact everyone call me Calivem
-    </li>
-</ul>
--->
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-- &#x1F4BB; Atualmente trabalhando na **Pague Menos**
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanlucass&layout=compact&langs_count=16&theme=tokyonight"/>
+</div
 
-- &#x1F4CB; Ask me about **C#, C, T-SQL, NetCore**
+<div style="display: inline_block"><br>
+  <img align="center" alt="lucas-cs" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
+  <img align="center" alt="lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" allucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lucas-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="lucas-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-- &#x1F4EA; E-mail Pessoal **lucasryanalves@gmail.com**
-
-- &#x1F4DD; Fun fact everyone call me Calivem
+  <img align="right" alt="lucas-gif" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif">
+</div>
 
 
+<div> 
+  <a href="https://www.youtube.com/user/cursosemvideo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-<br/>
-<br/>
+  <a href="https://instagram.com/llucasalvestr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<p align="center">
 
-<img src="icons/tecnologias/csharp.svg" alt="C#" width="20" height="20"/>
 
-<img src="icons/tecnologias/icons8-programação-c.svg" alt="C"  width="20" height="20"/>
+  <a href = "mailto:lucasryanalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ <a href="https://www.linkedin.com/in/lucas-alves-55b925182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/Ryanlucass/Ryanlucass/blob/output/github-contribution-grid-snake.svg)
 
-<img src="icons/tecnologias/icons8-python.svg" alt="Python"  width="20" height="20"/>
+</div>
 
-<img src="icons/tecnologias/sqllogo.png" alt="nodejs" width="20" height="20"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&show_icons=true" alt="Ryanlucass"/>
-</p>
-
-<p align="center">
-<a href="https://twitter.com/Calivem_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Calivem_" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/lucas-alves-55b925182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasryan.alves" height="20" width="20" /></a>
-<a href="https://fb.com/lucasryan.alves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lucasryan.alves" height="20" width="20" /></a>
-<a href="https://instagram.com/llucasalvestr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="llucasalvestr" height="20" width="20" /></a>
-</p>
-
-<!--
-**maykbrito/maykbrito** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- ?? I?m currently working on ...
-- ?? I?m currently learning ...
-- ?? I?m looking to collaborate on ...
-- ?? I?m looking for help with ...
-- ?? Ask me about ...
-- ?? How to reach me: ...
-- ?? Pronouns: ...
-- ? Fun fact: ...
--->
 
