@@ -1,9 +1,5 @@
 ## Olá! Eu sou o RyanLucas
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ryanlucass" alt="Ryanlucass" /> </p>
-
-<br/>
-
 - 🔭 Hoje trabalho na Pague Menos
 - 🌱 Estudando C# 
 - 😄 Sempre aprendendo 
