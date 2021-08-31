@@ -1,4 +1,4 @@
-## Olá! Eu sou o RyanLucas
+## Olá! Eu sou o Lucas 
 - 🔭 Hoje trabalho na Pague Menos
 - 🌱 Estudando C# 
 - 😄 Sempre aprendendo 
@@ -7,6 +7,15 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanlucass&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
+<div>
+<figure><embed src="https://wakatime.com/share/@Calivem/d84a6615-fc06-4167-b90c-e1b449e4b99a.svg"></embed></figure>
+</div>
+
+
+
+
+     
    
 <p>
 <img align="center" alt="lucas-cs" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg><img align="center" alt="lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -14,7 +23,7 @@
   <img align="center" alt="lucas-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="lucas-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Lucas-gif" src="https://media2.giphy.com/media/RIpj8HJGVGGTUdM76b/giphy.gif?cid=ecf05e47ximmtut9mo7z5tihgfo8orf7h5ct0ymbzyqkt6wv&rid=giphy.gif&ct=g">
+  <img align="right" alt="Lucas-gif" height="100" width="150" src="https://media2.giphy.com/media/RIpj8HJGVGGTUdM76b/giphy.gif?cid=ecf05e47ximmtut9mo7z5tihgfo8orf7h5ct0ymbzyqkt6wv&rid=giphy.gif&ct=g">
    
 </p>
 
