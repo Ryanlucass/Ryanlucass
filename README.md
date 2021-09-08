@@ -1,6 +1,6 @@
-## Olá! Eu sou o Lucas 
-- 🔭 Hoje trabalho na Pague Menos
-- 🌱 Estudando C# 
+## Oi! Eu sou o Goku.. ops, Lucas
+- 🔭 Trabalhando na Pague Menos 
+- 🌱 Estudando C#, SQL e Python 
 - 😄 Sempre aprendendo 
 
 <div>
