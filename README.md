@@ -1,5 +1,5 @@
-## Oi! Eu sou o Goku.. ops, Lucas
-- 🔭 Trabalhando na Pague Menos 
+## Aqui esta alguns dos meu trabalhos! 
+- 🔭 Atualmente trabalhando na Pague Menos 
 - 🌱 Estudando C#, SQL e Python 
 - 😄 Sempre aprendendo 
 
