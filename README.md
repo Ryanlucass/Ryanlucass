@@ -1,7 +1,7 @@
-## Aqui esta alguns dos meu trabalhos! 
+## Aqui esta alguns dos meus trabalhos! 
 - 🔭 Atualmente trabalhando na Pague Menos 
-- 🌱 Estudando C#, SQL e Python 
-- 😄 Sempre aprendendo 
+- 🌱 Estudando C# (.Net), SQL (T-SQL), JavaScript (NodeJs, React) e CSS 
+- 🍀 "Muito é dado, muit será cobrado" 
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
