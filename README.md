@@ -1,6 +1,6 @@
-## Aqui esta alguns dos meus trabalhos! 
-- 🔭 Atualmente trabalhando na Pague Menos 
-- 🌱 Estudando C# (.Net), SQL (T-SQL), JavaScript (NodeJs, React) e CSS 
+## Somethings about my jobs! 
+- 🔭 currently working at Pague Menos  
+- 🌱 Lerning C# (.Net), SQL (T-SQL), JavaScript (NodeJs, React) e CSS 
 - 🍀 "Muito é dado, muito será cobrado" 
 
 <div>
