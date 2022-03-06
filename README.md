@@ -1,5 +1,5 @@
 ## Somethings about my jobs! 
-- 🔭 currently working at Pague Menos  
+- 🔭 Atualmente trabalhando na empresa Pague Menos como estágio analisa desenvolvedor   
 - 🌱 Lerning C# (.Net), SQL (T-SQL), JavaScript (NodeJs, React) e CSS 
 - 🍀 "Muito é dado, muito será cobrado" 
 
