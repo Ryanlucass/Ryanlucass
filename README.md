@@ -14,7 +14,7 @@
 
 
 <div>
-   <img alt="codewar" src="https://www.codewars.com/users/Calivem/badges/large"></img>
+   <img alt="codewar" src="https://www.codewars.com/users/Calivem/badges/small"></img>
 </div>
 
 
