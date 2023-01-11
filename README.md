@@ -1,7 +1,7 @@
 ## Algumas coisas sobre o meu trabalho!
-- 🔭 Atualmente trabalhando na empresa Pague Menos como estagiário analisa desenvolvedor 
-- 🌱 Lerning C# (.Net), SQL (T-SQL), JavaScript (NodeJs, React) e CSS 
-- 🍀 "Muito é dado, muito será cobrado" 
+- 🔭 Atualmente consultor de TI
+- 🌱 experiência em : C# (.Net), SQL (T-SQL), JavaScript. 
+- 📕 Aprendendo : RabbitMq, DynamonDB, Azure, React, React Native 
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
