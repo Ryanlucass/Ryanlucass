@@ -3,12 +3,10 @@
 - 🌱 experience on : C# (.Net), SQL (T-SQL), JavaScript, React, DDD, MVC Models. 
 - 📕 Lerning : RabbitMq, DynamonDB, Azure, React Native, Docker
 
-   <div>
+   <div style="inline_block">
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryanlucass&count_private=true&theme=tokyonight"/>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanlucass&&layout=compact&theme=tokyonight&count_private=true"/>
+      <img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanlucass&&layout=compact&theme=tokyonight&count_private=true"/>
    </div>
-   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Calivem&layout=compact&theme=tokyonight&langs_count=7&)](https://github.com/anuraghazra/github-readme-stats) 
   
    <div style="display: flex">
       <img align="center" alt="icon-csharp" height="90" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
